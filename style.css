@@ -1,0 +1,11 @@
+#email{
+    background-color: blue;
+    color: aliceblue;
+    width: 770px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(#88deb0 0%, #69c6af 30%, #4eadaf 40%, #377a98 50%, #244a80 60%, #152069 70%, #140951 100%);
+}
